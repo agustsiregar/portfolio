@@ -1,6 +1,6 @@
-title: "" # the website title (if blank, full name will be used instead)
+title: blank
 first_name: Agust
-middle_name: ""  #L F
+middle_name: LF
 last_name: Siregar
 email: agust.siregar@ru.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
